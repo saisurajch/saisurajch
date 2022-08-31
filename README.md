@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saisurajch" target="blank"><img src="https://img.shields.io/twitter/follow/saisurajch?logo=twitter&style=for-the-badge" alt="saisurajch" /></a> </p>
 
-- 🔭 I’m currently working on Discord Music Bots **Alex Music**
+- 🔭 I’m currently working on Discord Music Bot called **Alex Music**
 
 - 🌱 I’m currently learning **C & CPP**
 
