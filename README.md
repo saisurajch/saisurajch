@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Suraj</h1>
 <h3 align="center">A programming enthusiast from India!</h3>
+<image align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisurajch&label=Profile%20views&color=0e75b6&style=flat" alt="saisurajch" /> </p>
 
@@ -30,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisurajch&show_icons=true&locale=en" alt="saisurajch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisurajch&" alt="saisurajch" /></p>
+
