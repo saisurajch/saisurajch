@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **C & CPP**
 
+- 🎓 I’m currently pursuing my graduation at **KL University** in **AI & DS**
+
 - 💬 Ask me about **JS/Erela/Shoukaku/Node.js**
 
 - 📫 How to reach me **saisuraj@live.com**
