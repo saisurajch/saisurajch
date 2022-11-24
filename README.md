@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Discord Music Bot called **Alex Music**
 
-- 🌱 I’m currently learning **C & CPP**
+- 🌱 I’m currently learning **C & Py**
 
 - 🎓 I’m currently pursuing my graduation at **KL University** in **AI & DS**
 
