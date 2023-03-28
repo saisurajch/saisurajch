@@ -1,34 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sai Suraj</h1>
-<h3 align="center">A programming enthusiast from India!</h3>
+<img align='left' src='https://media.discordapp.net/attachments/1050050356354220156/1090290212200001576/img_2.png?width=662&height=662' width='25%' heigh="35%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisurajch&label=Profile%20views&color=0e75b6&style=flat" alt="saisurajch" /> </p>
+# Suraj Dev
 
-<p align="left"> <a href="https://twitter.com/saisurajch" target="blank"><img src="https://img.shields.io/twitter/follow/saisurajch?logo=twitter&style=for-the-badge" alt="saisurajch" /></a> </p>
+Hi, I am Suraj !! <br>
+I'm from India. <br>
+I can speak telugu, hindi and english. <br>
+I'm currently pursuing Bachelor of Technology in AI & DS at KL University. <br>
 
-- 🔭 I’m currently working on Discord Music Bot called **Alex Music**
+![](https://komarev.com/ghpvc/?username=saisurajch&color=2062af&label=Profile+views)
 
-- 🌱 I’m currently learning **C & Py**
-
-- 🎓 I’m currently pursuing my graduation at **KL University** in **AI & DS**
-
-- 💬 Ask me about **JS/Erela/Shoukaku/Node.js**
-
-- 📫 How to reach me **saisuraj@live.com**
-
-- ⚡ My strengths **Trusting myself**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saisurajch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saisurajch" height="30" width="40" /></a>
-<a href="https://instagram.com/namelysuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namelysuraj" height="30" width="40" /></a>
-<a href="https://discord.gg/etcuFnRqnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="etcuFnRqnx" height="30" width="40" /></a>
+# Skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,atom,aws,azure,bootstrap,c,css,discord,bots,dynamodb,flask,git,github,html,js,linux,mongodb,mysql,nodejs,postman,powershell,py,react,replit,sqlite,stackoverflow,selenium,tailwind,vscode&theme=dark"
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisurajch&show_icons=true&locale=en&layout=compact" alt="saisurajch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisurajch&show_icons=true&locale=en" alt="saisurajch" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisurajch&" alt="saisurajch" /></p>
-
-
+ 
+<!--  <details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MrlolDev&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrlolDev&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+</details> -->
