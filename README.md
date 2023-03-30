@@ -6,7 +6,7 @@ Hi, I'm Sai Suraj
 </h1>
 
 <div align="center">
-  <img  src="https://github.com/saisurajch/saisurajch/blob/main/Snake-grid.gif"
+  <img  src="./main/Snake-grid.svg"
        alt="snake" />
 </div>
 
