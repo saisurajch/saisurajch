@@ -5,10 +5,7 @@ Hi, I'm Sai Suraj
 	</a>
 </h1>
 
-<div align="center">
-  <img  src="./main/Snake-grid.svg"
-       alt="snake" />
-</div>
+
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=075F0A&center=true&vCenter=true&width=435&lines=AI+%7C+DS+%7C+ML+Enthusiast;Love+to+learn+new+things;Interested+in+new+projects" alt="Typing SVG" /></a>
