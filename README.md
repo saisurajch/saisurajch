@@ -22,7 +22,6 @@ Hi, I'm Sai Suraj
 🌱 Learning about Data Science stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in AI & ML application development
-🤔 I’m currently open for: <b>An Intern</b></a>
 </pre>
 <hr>
 
