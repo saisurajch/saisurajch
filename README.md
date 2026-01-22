@@ -16,5 +16,5 @@ As a hobby me and my team are working on building <a href="https://stackryze.com
 I'm currently working at JPMorganChase.
 </p>
 <p>
-How to reach me - <a href="https://www.linkedin.com/in/sai-suraj-chatrathi-06413927b/">LinkedIn</a> | <a href="https://discord.com/users/703949805457637471">Discord</a>
+How to reach me - <a href="https://discord.com/users/703949805457637471">Discord</a> | contact@saisurajch.me
 </p>
